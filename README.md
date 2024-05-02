@@ -1,8 +1,12 @@
 ## Oi! Sou Luan Ventura, Desenvolvedor Front-End e Estudante de Back-End
 *Sempre aprimorando minhas habilidades com a criação de sites e projetos que desafiem o meu conhecimento!*
 <br>
-![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanvfm&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanvfm&theme=transparent)](https://github.com/luanvfm/github-readme-stats)
+<a href="https://github.com/luanvfm/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=luanvfm&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/luanvfm/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanvfm&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
 
 <div style="display: inline_block"> <br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
