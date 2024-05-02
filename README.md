@@ -1,6 +1,5 @@
 ## Oi! Sou Luan Ventura, Desenvolvedor Front-End e Estudante de Back-End
-*Sempre aprimorando minhas habilidades com a criação de sites e projetos que desafiem o meu conhecimento!*
-<br>
+*Sempre aprimorando minhas habilidades com a criação de sites e projetos que desafiem o meu conhecimento!*<br>
 <a href="https://github.com/luanvfm/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=luanvfm&theme=transparent" />
 </a>
@@ -8,7 +7,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanvfm&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
-<div style="display: inline_block"> <br>
+<div> <br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
