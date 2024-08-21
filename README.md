@@ -1,5 +1,5 @@
 ## Oi! Eu sou Luan Ventura, Desenvolvedor Front-End e Estudante de Back-End
-**Formado em Técnico em Informática para Web e no momento estou cursando Análise e Desenvolvimento de Sistemas na faculdade Senac.**
+Formado em **Técnico em Informática para Web** pelo Instituto Federal e no momento estou cursando **Análise e Desenvolvimento de Sistemas** na faculdade Senac.
 
 *Sempre aprimorando minhas habilidades com a criação de sites e projetos que desafiem o meu conhecimento!*
 
