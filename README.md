@@ -29,6 +29,12 @@ Formado em **Técnico em Informática para Web** pelo Instituto Federal e no mom
   <a href="https://www.linkedin.com/in/luanven/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+### 🚀 Projetos que Participo
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+- [Projeto-Ch1co](https://github.com/CaioMarinhoSenac/ProjetoCH1C0---Senac)
+- [CuidaMais](https://github.com/ItaloBrazz/cuidamais)
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luanvfm/luanvfm/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luanvfm/luanvfm/output/github-contribution-grid-snake.svg">
