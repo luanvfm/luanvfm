@@ -10,13 +10,6 @@ Desenvolvedor **Front-End** focado em **Next.js e React**, com interesse em **Re
 
 <br>
 
-<a href="https://github.com/luanvfm/github-readme-stats">
-  <img height=200 width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=luanvfm&theme=transparent&show_icons=true&rank_icon=github" />
-</a>
-<a href="https://github.com/luanvfm/github-readme-stats">
-  <img height=200 width="47%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanvfm&layout=compact&langs_count=8&theme=transparent" />
-</a>
-
 <div align="center"> 
   <br>
   <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,6 +22,15 @@ Desenvolvedor **Front-End** focado em **Next.js e React**, com interesse em **Re
   <img align="center" alt="Luan-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Luan-Arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 </div>
+
+<a href="https://github.com/luanvfm/github-readme-stats">
+  <img height=200 width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=luanvfm&theme=transparent&show_icons=true&rank_icon=github" />
+</a>
+<a href="https://github.com/luanvfm/github-readme-stats">
+  <img height=200 width="47%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanvfm&layout=compact&langs_count=8&theme=transparent" />
+</a>
+
+
 
 ##
 
