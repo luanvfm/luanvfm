@@ -20,7 +20,7 @@
 ---
     Estudante de Análise e Desenvolvimento de Sistemas (Embarque Digital - Cesar School) 
     (Student of System Development and Analysis by Embarque Digital - Cesar School)
-
+---
 
 <a href="https://github.com/luanvfm/github-readme-stats">
   <img height=200 width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=luanvfm&theme=tokyonight&show_icons=true&rank_icon=github" />
@@ -29,7 +29,7 @@
   <img height=200 width="47%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanvfm&layout=compact&langs_count=8&theme=tokyonight" />
 </a>
 
-##
+---
 
 <div align="center"> 
   <a href="mailto:luanventuracontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -40,16 +40,11 @@
 - 🥇 Vencedor do **Ideathon Saúde Digital** (UPE)  
 - 🥇 Vencedor do **Furdunço Criativo** (Prefeitura do Recife)
 
-<br>
+---
 
 ### 🚀 Projetos em que Participo
 - 📚 [**free-programming-books**](https://github.com/EbookFoundation/free-programming-books) — Contribuidor ativo no maior repositório educacional open source.  
 - 🤖 [**Projeto CH1CO**](https://github.com/CaioMarinhoSenac/ProjetoCH1C0---Senac) — Robô educativo com integração em Python e Arduino.  
 - 💊 [**CuidaMais**](https://github.com/ItaloBrazz/cuidamais) — App de autocuidado para hipertensão e diabetes, vencedor do Ideathon Saúde Digital.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luanvfm/luanvfm/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luanvfm/luanvfm/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luanvfm/luanvfm/output/github-contribution-grid-snake.svg">
-</picture>
 
