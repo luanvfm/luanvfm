@@ -1,59 +1,46 @@
-## 👋 Oi, eu sou **Luan Ventura**
-💻 Desenvolvedor **Front-End** | 🔐 Cibersegurança | 🤖 IA & Robótica  
-🎓 IFPE • Cesar School | 🚀 Vencedor de Hackathons
+## 👋 Oi! Eu sou Luan Ventura  
+Desenvolvedor **Front-End** focado em **Next.js e React**, com interesse em **Reconhecimento de Imagem**, **Cibersegurança** e **Robótica com Python e Arduino**.  
 
----
+🎓 Formado em **Técnico em Informática para Web** pelo IFPE  
+📚 Estudante de **Análise e Desenvolvimento de Sistemas** (Embarque Digital - Cesar School)
 
-### 🧠 Stack Principal
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,python,arduino,mysql,html,css" />
+🏆 **Conquistas Recentes**  
+- 🥇 Vencedor do **Ideathon Saúde Digital** (UPE)  
+- 🥇 Vencedor do **Furdunço Criativo** (Prefeitura do Recife)
+
+<br>
+
+<a href="https://github.com/luanvfm/github-readme-stats">
+  <img height=200 width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=luanvfm&theme=transparent&show_icons=true&rank_icon=github" />
+</a>
+<a href="https://github.com/luanvfm/github-readme-stats">
+  <img height=200 width="47%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanvfm&layout=compact&langs_count=8&theme=transparent" />
+</a>
+
+<div align="center"> 
+  <br>
+  <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Luan-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Luan-Node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Luan-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Luan-Arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 </div>
 
----
+##
 
-### 🏆 Conquistas
-<div align="center">
-  🥇 **Ideathon Saúde Digital (UPE)**  
-  🥇 **Furdunço Criativo (Prefeitura do Recife)**
+<div align="center"> 
+  <a href="mailto:luanventuracontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/luanven/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
-
----
 
 ### 🚀 Projetos em que Participo
-<div align="left">
-
-🔹 [**free-programming-books**](https://github.com/EbookFoundation/free-programming-books) — curadoria e tradução de livros técnicos.  
-🔹 [**Projeto CH1C0**](https://github.com/CaioMarinhoSenac/ProjetoCH1C0---Senac) — assistente educacional interativo.  
-🔹 [**CuidaMais**](https://github.com/ItaloBrazz/cuidamais) — app de autocuidado para hipertensão e diabetes.  
-
-</div>
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img height=160 src="https://github-readme-stats.vercel.app/api?username=luanvfm&show_icons=true&theme=transparent&hide_border=true" />
-  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs?username=luanvfm&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
-</div>
-
----
-
-### 🌱 Aprendendo Agora
-<div align="center">
-  <img src="https://img.shields.io/badge/-Next.js_15-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenCV-blue?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pentest%20Ético-red?style=for-the-badge&logo=kalilinux&logoColor=white" />
-</div>
-
----
-
-### 📫 Contato
-<div align="center"> 
-  <a href="mailto:luanventuracontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/luanven/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-
----
+- 📚 [**free-programming-books**](https://github.com/EbookFoundation/free-programming-books) — Contribuidor ativo no maior repositório educacional open source.  
+- 🤖 [**Projeto CH1CO**](https://github.com/CaioMarinhoSenac/ProjetoCH1C0---Senac) — Robô educativo com integração em Python e Arduino.  
+- 💊 [**CuidaMais**](https://github.com/ItaloBrazz/cuidamais) — App de autocuidado para hipertensão e diabetes, vencedor do Ideathon Saúde Digital.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luanvfm/luanvfm/output/github-contribution-grid-snake-dark.svg">
