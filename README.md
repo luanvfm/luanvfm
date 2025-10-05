@@ -36,13 +36,13 @@
   <a href="https://www.linkedin.com/in/luanven/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
-### 🏆 **Conquistas Recentes**  
+### 🏆  **Conquistas Recentes**  
 - 🥇 Vencedor do **Ideathon Saúde Digital** (UPE)  
 - 🥇 Vencedor do **Furdunço Criativo** (Prefeitura do Recife)
 
 ---
 
-### 🚀 Projetos em que Participo
+### 🚀  Projetos em que Participo
 - 📚 [**free-programming-books**](https://github.com/EbookFoundation/free-programming-books) — Contribuidor ativo no maior repositório educacional open source.  
 - 🤖 [**Projeto CH1CO**](https://github.com/CaioMarinhoSenac/ProjetoCH1C0---Senac) — Robô educativo com integração em Python e Arduino.  
 - 💊 [**CuidaMais**](https://github.com/ItaloBrazz/cuidamais) — App de autocuidado para hipertensão e diabetes, vencedor do Ideathon Saúde Digital.
