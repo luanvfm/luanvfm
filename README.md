@@ -16,12 +16,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=97DFFC&center=true&vCenter=true&width=435&lines=I'm+Luan+Ventura%2C+Software+Developer;+React%2C+Next.js%2C+Python+and+More!;Cybersecurity+%2B+IA+Enthusiast)](https://git.io/typing-svg)
 
 #### **Técnico em Informática para Web** pelo IFPE 
-IT Technician by Federal Institute of Brazil  
+(IT Technician by Federal Institute of Brazil)  
 
 #### Estudante de **Análise e Desenvolvimento de Sistemas** (Embarque Digital - Cesar School) 
-Student of System Development and Analysis (Embarque Digital - Cesar School)
+(Student of System Development and Analysis by Embarque Digital - Cesar School)
 
-
+##
 
 <a href="https://github.com/luanvfm/github-readme-stats">
   <img height=200 width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=luanvfm&theme=tokyonight&show_icons=true&rank_icon=github" />
