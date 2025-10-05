@@ -1,6 +1,5 @@
-## 👋 Oi! Eu sou Luan Ventura  
-Desenvolvedor **Front-End** focado em **Next.js e React**, com interesse em **Reconhecimento de Imagem**, **Cibersegurança** e **Robótica com Python e Arduino**.  
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Oi!+Eu+sou+Luan+Ventura;Desenvolvedor+Front-End;Cybersecurity+%26+IA+Enthusiast;Criando+com+React%2C+Next.js+e+Python)](https://git.io/typing-svg)
+<br>
 🎓 Formado em **Técnico em Informática para Web** pelo IFPE  
 📚 Estudante de **Análise e Desenvolvimento de Sistemas** (Embarque Digital - Cesar School)
 
