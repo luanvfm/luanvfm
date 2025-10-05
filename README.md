@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=97DFFC&center=true&vCenter=true&width=435&lines=I'm+Luan+Ventura%2C+Software+Developer;+React%2C+Next.js%2C+Python+and+More!;Cybersecurity+%2B+IA+Enthusiast)](https://git.io/typing-svg)
 
-#### Formado em **Técnico em Informática para Web** pelo IFPE  
-#### Estudante de **Análise e Desenvolvimento de Sistemas** (Embarque Digital - Cesar School)
+#### **Técnico em Informática para Web** pelo IFPE // IT Technician by Federal Institute of Brazil  
+#### Estudante de **Análise e Desenvolvimento de Sistemas** (Embarque Digital - Cesar School) // Student of System Development and Analysis (Embarque Digital - Cesar School)
 
 <div align="center"> 
   <br>
