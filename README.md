@@ -21,6 +21,7 @@ Desenvolvedor **Front-End** focado em **Next.js e React**, com interesse em **Re
   <img align="center" alt="Luan-Node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Luan-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Luan-Arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+  <br>
 </div>
 
 <a href="https://github.com/luanvfm/github-readme-stats">
