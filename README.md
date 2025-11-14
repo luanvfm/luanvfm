@@ -25,7 +25,7 @@
     (Student of System Development and Analysis by Embarque Digital - Cesar School)
 ---
 
-<a href="https://github.com/luanvfm/github-readme-stats">
+<a href="https://github.com/luanvfm/github-readme-stats" align="center">
   <img height=200 width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=luanvfm&theme=tokyonight&show_icons=true&rank_icon=github" />
 </a>
 
