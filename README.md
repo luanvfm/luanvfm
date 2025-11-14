@@ -25,12 +25,11 @@
     (Student of System Development and Analysis by Embarque Digital - Cesar School)
 ---
 
-<a>
-  <img height=200 width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=luanvfm&theme=tokyonight&show_icons=true&rank_icon=github" />
+<a href="https://github.com/luanvfm/github-readme-stats">
+  <img height=200 width="30%" align="center" src="https://github-readme-stats.vercel.app/api?username=luanvfm&theme=tokyonight&show_icons=true&rank_icon=github" />
 </a>
-
-<a>
-  <img height=175 width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanvfm&layout=compact&langs_count=8&theme=tokyonight&size_weight=0&count_weight=1" />
+<a href="https://github.com/luanvfm/github-readme-stats">
+  <img height=200 width="30%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanvfm&layout=compact&langs_count=8&theme=tokyonight&size_weight=0&count_weight=1" />
 </a>
 
 
