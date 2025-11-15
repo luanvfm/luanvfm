@@ -43,6 +43,8 @@
 
 ### 🏆  **Conquistas Recentes**    (Recent Achievements) 
 
+- 🥇 Vencedor do **HackaZero** - Accenture e Casa Zero    (Winner of HackaZero Hackathon by Accenture)
+- 🥇 Vencedor do **Hackathon BBTS** - Banco do Brasil    (Winner of BBTS (Banco do Brasil Tecnologias e Serviços) Hackathon by Banco do Brasil)
 - 🥇 Vencedor do **Ideathon Saúde Digital** - UPE    (Winner of Ideathon Digital Health Hackathon by the State University of Pernambuco)
 - 🥇 Vencedor do **Furdunço Criativo** - Prefeitura do Recife    (Winner of Ideathon Digital Health Hackathon by Recife City Hall)
 
