@@ -19,14 +19,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=I'm+Luan+Ventura%2C+Software+Developer;ABAP+%26+SAP+Developer;+React%2C+Next.js%2C+Python+and+More!;Cybersecurity+%2B+IA+Enthusiast)](https://git.io/typing-svg)
 
-*Education:*
+### 🎓  **Formação**    (Education)
 
-    Técnico em Informática para Internet pelo IFCE
-    (IT Technician by Federal Institute of Ceará)  
-<br>
+- 🏛️ **Análise e Desenvolvimento de Sistemas** — CESAR School *(Embarque Digital · cursando)*
+- 💻 **Técnico em Informática para Internet** — IFCE *(Instituto Federal do Ceará)*
 
-    Estudante de Análise e Desenvolvimento de Sistemas (Embarque Digital - Cesar School) 
-    (Student of System Development and Analysis by Embarque Digital - Cesar School)
 ---
 
 <a href="https://github.com/luanvfm/github-readme-stats">
