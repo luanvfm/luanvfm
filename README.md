@@ -26,11 +26,11 @@
 
 ---
 
-<a href="https://github.com/luanvfm/github-readme-stats">
-  <img height=175 width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanvfm&layout=compact&langs_count=8&size_weight=0&count_weight=1&hide_border=false&bg_color=1A1326&title_color=A855F7&text_color=D8B4FE&icon_color=A855F7&border_color=8B5CF6" />
+<a href="https://github.com/luanvfm?tab=repositories">
+  <img height=175 width="50%" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=luanvfm&layout=compact&langs_count=8&size_weight=0&count_weight=1&hide_border=false&bg_color=1A1326&title_color=A855F7&text_color=D8B4FE&icon_color=A855F7&border_color=8B5CF6" />
 </a>
-<a href="https://github.com/luanvfm/github-readme-stats">
-  <img height=200 width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=luanvfm&show_icons=true&rank_icon=github&hide_border=false&bg_color=1A1326&title_color=A855F7&text_color=D8B4FE&icon_color=A855F7&border_color=8B5CF6" />
+<a href="https://github.com/luanvfm?tab=repositories">
+  <img height=200 width="49%" align="center" src="https://github-readme-stats-fast.vercel.app/api?username=luanvfm&show_icons=true&rank_icon=github&hide_border=false&bg_color=1A1326&title_color=A855F7&text_color=D8B4FE&icon_color=A855F7&border_color=8B5CF6" />
 </a>
 
 
